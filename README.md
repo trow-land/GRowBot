@@ -19,7 +19,7 @@ The GRowBot project aims to:
 
 ## Installation and Usage
 
-git clone https://github.com/yourusername/GRowBot.git
+git clone https://github.com/trow-land/GRowBot.git
 cd GRowBot
 pip install -r requirements.txt
 python main.py
