@@ -18,12 +18,12 @@ The GRowBot project aims to:
 - Jupyter Notebook
 
 ## Installation and Usage
-
+```
 git clone https://github.com/trow-land/GRowBot.git
 cd GRowBot
 pip install -r requirements.txt
 python main.py
-
+```
 ## Current Progress
 
 The project currently includes a few Jupyter Notebook files with the following functionalities:
