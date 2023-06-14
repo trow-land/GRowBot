@@ -50,9 +50,11 @@ This graph shows the output counts from inference on the 100 images in the test 
 
 The GRowBot project is still in its early stages, and there are plans to further develop the project, including:
 
-- Transferring to Python files once a local GPU enabled machine has been bought.
-- Finding a crop/dataset so that the bounding box can be passed to a disease classification network.
-- Further testing and hyperparameter tuning with these and other object detection algorithms.
+- Transferring training scripts to Python files for training on a local GPU
+- Finding a crop/dataset so that the bounding box can be passed to a disease classification network
+- Train with some more object detection models
+- Containerise the project with Docker
+- Further testing and hyperparameter tuning
 
 ## License and Acknowledgements
 
