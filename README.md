@@ -1,5 +1,5 @@
 # GRowBot
-## For other ML projects see [Machine Learning Projects](https://github.com/trow-land/Machine-Learning)
+## For other ML/CV projects see [Machine Learning Projects](https://github.com/trow-land/Machine-Learning) and [Computer Vision Projects](https://github.com/trow-land/Computer-Vision-Projects)
 
 This repository contains the code and resources for the GRowBot project. The GRowBot is an autonomous robot designed for precision application of fertilisers and herbicides, as well as efficient management of crops in agriculture. The project is in its early stages, with the current focus on developing computer vision algorithms for crop and weed counting, and disease classification.
 
